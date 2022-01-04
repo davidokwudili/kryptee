@@ -1,0 +1,32 @@
+### FRONTEND 
+
+## vitejs
+https://vitejs.dev/
+
+## Tailwind CSS
+https://tailwindcss.com/docs/installation
+
+
+
+### BLOCKCHAIN Smart-Contract
+
+## HartHad
+Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. It helps developers manage and automate the recurring tasks that are inherent to the process of building smart contracts and dApps, as well as easily introducing more functionality around this workflow. This means compiling, running and testing smart contracts at the very core.
+https://hardhat.org/
+
+
+## Ropsten Faucet (You can just google 'Ropsten Faucet' and get other options)
+Where you can get test ethereum for free
+https://faucet.egorfine.com/
+
+
+## Metamask (An Ethereum Wallet in your Browser) Install as an extension in your Chrome Browser (offered by https://metamask.io)
+https://chrome.google.com/webstore/search/metamask?hl=en-US
+
+
+## Alchemy
+Alchemy is a blockchain developer platform focused on making blockchain development easy. We've built a suite of developer tools, enhanced APIs, and superior node infrastructure to make building and running blockchain applications seamless.
+https://www.alchemy.com/
+
+
+
